@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_new_subscription"
+        android:title="@string/action_new_subscription"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_start_session"
+        android:title="@string/action_start_session"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_stop_session"
+        android:title="@string/action_stop_session"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_session_data"
+        android:title="@string/action_show_session_data"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

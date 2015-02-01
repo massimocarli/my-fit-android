@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFitApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- DataSource search-->
+    <string name="action_data_source_search">Search DataSource</string>
+    <string name="action_list_data_sources">Show DataSource</string>
+    <string name="data_source_empty_list">No DataSource available</string>
+    <string name="action_data_subscribe">Subscribe</string>
+    <string name="action_data_unsubscribe">Unsubscribe</string>
+    <string name="action_data_source_subscribe_success">Subscription success!</string>
+    <string name="action_data_source_subscribe_error">Subscription error!</string>
+    <string name="action_data_source_unsubscribe_success">Unsubscription success!</string>
+    <string name="action_data_source_unsubscribe_error">Unsubscription error!</string>
+
+
+    <!-- DataSource BLE-->
+    <string name="action_data_search_ble">Scan BLE devices</string>
+
+    <!-- Session and Data Management-->
+    <string name="action_session_data">Manage Sessions</string>
+    <string name="action_session_subscription_empty">No Subscription available</string>
+    <string name="action_new_subscription">New Subscription</string>
+    <string name="action_remove_subscription">Remove Subscription</string>
+    <string name="subscription_created_successfully">New Subscripstion created with success</string>
+    <string name="subscription_already_present">The same subscription is already present</string>
+    <string name="subscription_removed_successfully">Subscription removed with success</string>
+    <string name="subscription_creation_error">Subscription creation failed!</string>
+    <string name="subscription_removed_error">Subscription removal failed!</string>
+
+    <string name="action_start_session">Start Session</string>
+    <string name="action_stop_session">Stop Session</string>
+    <string name="session_start_success">Session started with success</string>
+    <string name="session_start_failed">Session failed to start</string>
+    <string name="session_stop_success">Session stopped with success</string>
+    <string name="session_stop_failed">Session failed to stop</string>
+
+    <string name="action_show_session_data">Show Session Data</string>
+
+    <!-- History Api-->
+    <string name="action_dump_data">Dump History Data</string>
+    <string name="data_set_error">Error getting DataSet</string>
+
+
+</resources>
